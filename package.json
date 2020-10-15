@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/astonizer/gego#readme",
   "dependencies": {
-    "axios": "^0.20.0"
+    "axios": "^0.20.0",
+    "check-internet-connected": "^2.0.5"
   }
 }
